@@ -12,12 +12,12 @@ setTimeout(getData, 2500)
 
 function getData() {
   header.innerHTML =
-    '<img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80" alt="" />'
+    '<img src="https://www.apple.com/v/tv-home/n/images/overview/hero__dbphk49ymi2q_large.jpg" alt="" />'
   title.innerHTML = 'Lorem ipsum dolor sit amet'
   excerpt.innerHTML =
     'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perferendis'
   profile_img.innerHTML =
-    '<img src="https://randomuser.me/api/portraits/men/45.jpg" alt="" />'
+    '<img src="https://www.apple.com/tw/tv-home/images/overview/homeapp__cpc1k972xys2_large.jpg" alt="" />'
   name.innerHTML = 'John Doe'
   date.innerHTML = 'Oct 08, 2020'
 

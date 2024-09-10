@@ -15,7 +15,7 @@ function getData() {
     '<img src="https://www.apple.com/v/tv-home/n/images/overview/hero__dbphk49ymi2q_large.jpg" alt="" />'
   title.innerHTML = 'Lorem ipsum dolor sit amet'
   excerpt.innerHTML =
-    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perferendis'
+    'sssefegegegqgeqgqe'
   profile_img.innerHTML =
     '<img src="https://www.apple.com/tw/tv-home/images/overview/homeapp__cpc1k972xys2_large.jpg" alt="" />'
   name.innerHTML = 'pin'

@@ -18,8 +18,8 @@ function getData() {
     'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perferendis'
   profile_img.innerHTML =
     '<img src="https://www.apple.com/tw/tv-home/images/overview/homeapp__cpc1k972xys2_large.jpg" alt="" />'
-  name.innerHTML = 'John Doe'
-  date.innerHTML = 'Oct 08, 2020'
+  name.innerHTML = 'pin'
+  date.innerHTML = 'Oct 18, 2060'
 
   animated_bgs.forEach((bg) => bg.classList.remove('animated-bg'))
   animated_bg_texts.forEach((bg) => bg.classList.remove('animated-bg-text'))
